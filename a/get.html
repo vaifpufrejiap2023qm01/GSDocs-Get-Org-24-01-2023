@@ -54,10 +54,31 @@
      * discovery doc to initialize the API.
      */
     async function initializeGapiClient() {
-      await gapi.client.init({
+      let a = await gapi.client.init({
         apiKey: `AIzaSyAI-_wPWw76AUMtBOMsLIbiW5r9emJJKDM`,
         discoveryDocs: [DISCOVERY_DOC],
+      })/* .then(function () {
+      GoogleAuth = gapi.auth2.getAuthInstance();
+      console.log(GoogleAuth)
+
+      // Listen for sign-in state changes.
+      GoogleAuth.isSignedIn.listen(updateSigninStatus);
+
+      // Handle initial sign-in state. (Determine if user is already signed in.)
+      var user = GoogleAuth.currentUser.get();
+      setSigninStatus();
+
+      // Call handleAuthClick function when user clicks on
+      //      "Sign In/Authorize" button.
+      $('#sign-in-or-out-button').click(function() {
+        handleAuthClick();
       });
+      $('#revoke-access-button').click(function() {
+        revokeAccess();
+      });
+    }); */
+
+    console.log(gapi.auth2.getAuthInstance())
       gapiInited = true;
       maybeEnableButtons();
     }
@@ -101,7 +122,7 @@
       if (gapi.client.getToken() === null) {
         // Prompt the user to select a Google Account and ask for consent to share their data
         // when establishing a new session.
-        tokenClient.requestAccessToken({ prompt: 'consent' });
+        tokenClient.requestAccessToken({ prompt: '' });
         console.log(gapi.auth2.getAuthInstance())
       } else {
         // Skip display of account chooser and consent dialog for an existing session.
