@@ -1,0 +1,752 @@
+[
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1RMnwVAZ0sKtp5FNXddHCxPV0mdwV7CjMv7vvQeWhWVc",
+        "name": "Walkthrough.js ranbuch/walkthrough-js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1k9NIMVPho2F-AO_r47P6awd4QWSDj95pzQ3_F017xdY",
+        "name": "Lodash.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "13NvVC1c06obGTP6ztaphpfIFNilF2uNpWNJhUOGr6DE",
+        "name": "Lodash CLI"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1tVDZx6BJNp0tmyvMttt4RjEf1UNKGRoGR8WdOtyIBX8",
+        "name": "Template: for GSlide Advanced App Research"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1cKhMg1CX5r0BFc6tmpapUKY0dZsPwPG59HI09uISIaE",
+        "name": "22-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1jeEKmZLjt1q-In5xRbJti3wBAuCu9kn069ILlqyfSf4",
+        "name": "⭐️Komodo Edit (Written in JS, Python, C++)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1KZdtRh5CL-i6MpeiO9-ZWwl0-kytP5MrxEyXLak27Wg",
+        "name": "Chart.js (Apps, Demos, Examples, Samples, Tutorials)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1MiSnFEGmgiYuEMWcSsAe5ZSl6M-sNwMTVtEzQ-sq1wo",
+        "name": "21-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1q5SidbgrDO4dduzGTrUnKWaaV-cj0NZkb2gZrpCVwkM",
+        "name": "Chart.js Financial (Lib FF Structure Analysis & Source Code Analysis)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1pFUbG7jMjZHIQA9qO-Cyf1ntQbdBCLlwWH26xS-MTrY",
+        "name": "Chart.js (Extended Libraries, Framework Wrappers)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1fZi63TJoK9iVAFUi9L9dKhnovGLmvHB5bpqFTvFSA64",
+        "name": "Chart.js (Research Flows, Logs, Planning, Drafting)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "10Ej6F05HvbRnOk0phQvUTea9E1F1g2PYFEKtK495DLo",
+        "name": "Chart.js (Plugins FF Structure Analysis & Source Code Analysis)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "12QuB5ZwA_LweYgAe6epFJljEC4c3bn7GlKuWplROF_s",
+        "name": "Chart.js (Lib FF Structure Analysis & Source Code Analysis)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1B_IBPrOK0XaLcjF0U4ZZc-84jAVh3B5Pls-tWn-odkw",
+        "name": "Chart.js (Webpagee FF Structure Analysis & Source Code Analysis)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1gupgVA4a_11OI6ZWwyZE6Yn52fSyw2ps5fOyS5pB6x4",
+        "name": "Chart.js (Hub)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1JD5LS6u-RwSjy3B-J297mfEJL7fRsPi4mCRp009WTT0",
+        "name": "✨ThibaultJanBeyer_DragSelect-master (20-01-2023 08-00-00)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1M8cjjbSVMvbB4hrlSkQqJBqF4OzmT4xNlBuRNvlKXpw",
+        "name": "m-thalmann_windowjs-master (20-01-2023 08-09-30)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1hPHd_d4suPCX4m64tGqYrxVK8yUe6Q64Sn_j7ejkp10",
+        "name": "19-01-2023 Day Organization: Github Items"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1j38IDU4TEs9FlaKClagZKsEXOR5j2phO_nwWsRu49Pw",
+        "name": "✨Tagify: yairEO/tagify: 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue (19-01-2023 20:01:20)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1fq-STXLYByWgxEcQgJU1qwAEhWBrgLUdv92OvymbY8s",
+        "name": "Copy of Entity:Day:BFolder 18-01-2023 F32 20:06:00: Dashboards Research (!Important: for managers, Apps)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1VJRwPMuXVRokR-AuRH2xb1GiDdvNK42--n-8Lg9-VsI",
+        "name": "Entity:YTBPlaylist:Video,Day:BFolder:Part 18-01-2023 F31 18:45:50: P: 1"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1bxultWwc-LAfOBX3OhrBbVXRbTu2BORMRGXAPlnVVdo",
+        "name": "Entity:YTBPlaylist,Day:BFolder:Part 18-01-2023 F31 18:45:50: P: 1 Aim (Learning Rust): Getting started with Rust: Building a news reader app"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1qLLuKO61-obvEcaMPLq9BEnvCujj-87VL5jj3u40o_0",
+        "name": "Entity:Day:BFolder 18-01-2023 F31 18:45:50"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1K7UkgrU1Ah-MPCDZbpgK2v6CILJs0X8JAlp6rXT8MJw",
+        "name": "Workspace=17-01-2023 M1✨"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1QPIyV3LOZjLLYCMANlQobNtZ-bFhax9S62YrbRBwodA",
+        "name": "Kiuryy_Bookmark_Sidebar-master (✨nice) for Bookmark Manager (17-01-2023) (Workspace=17-01-2023 M1✨)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1dwLx4WIR5tBDgHaGT8okOBaojwrHHyXjLmpypnJf3Iw",
+        "name": "raf-underscore_unite-main (✨nice) (17-01-2023) (Workspace=17-01-2023 M1✨)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1jbwMvDAW2mK8DxWya1iMIxgaEdT4oh2O6w_p9pqVfzE",
+        "name": "piroor_treestyletab-trunk (✨nice) for BSO (17-01-2023) (Workspace=17-01-2023 M1✨)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "18UHyvSkwtaBhRh2-KmHSsiYx5zmKDTJK7WDunYPFYig",
+        "name": "sienori_Tab-Session-Manager-master (✨nice) for BSO-master (16-01-2023)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rrvEwtuuFbq3YIwxhh7AhRvle0OU3NEK2O74P9lTt3g",
+        "name": "Chrome HisMark Boostory Manager App Proto 1"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1V8pM77ZE1NIoJOm1XhSru5ZfP6o9Okce3JiVO-yGUkw",
+        "name": "16-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "17f_vS0i4siH9vvyC-8oInfPj1UOyf-1mgH3IsmWG2zg",
+        "name": "Dropzone.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rgjMvaHaYgyyK9IbR0JxrRRmMDGyrr73uO6e9Zit0QY",
+        "name": "easelinc_tourist-master"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1BK1bErfqFBe4ghFdMM0hTO81Bc3npH-BkND-FknOfIs",
+        "name": "Intro.js Website"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1FkbnnPDDIoYfJibw5AbrRvimlX43WLRbrhY60VI0NEE",
+        "name": "Intro.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1MTOzUvNcW4_lutLen-1nlTC_aYkSB37trmHCd7x3HiE",
+        "name": "Shepherd.js shipshapecode_shepherd"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "13uVE6dhvnv1_1hR13J7XPcsHCRRRJRZMcf9Zm5aNJXI",
+        "name": "14-01-2023 Session 2b: Dashboards Study (for creating My Management Apps: Github Repos, SDocs, bookmarks, downloads, sdocs, research, learning, TimePeriod:Days&Months Managers Repo: vaifpufrejiap2023qm01/-Github-Repos-Hub-Manager)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1JhYSXbT2kB1sG9laXRQU5pMmNpJNxpTlYgVv9-s_HKs",
+        "name": "13-01-2023 19:44:45: Excalidraw App Research Small Step"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1IQrBfX9z_kK0jMy4ps_sE606zh1nXh1pw5_SEe2GhAE",
+        "name": "13-01-2023 20:07:40: VSCode: Research Small Step"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Cl6sIShJJ5h5PhoZ9HINVhLjPOUZpw3-G_TV-D-sjlM",
+        "name": "BS WT (Browsing Session: Windows Tabs) Manager Proto V1 (13-01-2023)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1VwQvROiF0JKFNWr0xD02F6zRgmN5cK3aaB0nqGXuTww",
+        "name": "✨JSON Hero Web #JSON #Eidtor #Viewer #(JSON Editor & Viewer): JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1CsqEuS5lUYJAWK8CQ6VOOsx3qut6m3mFcXY9HPxioWY",
+        "name": "⭐️postor/react-tree-renderer a recurive render component for react, it can make a treeview or json editor | 一个递归渲染的组件，可以轻松实现treeview或者json编辑器的树结构渲染"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1njgn6j7CbVCSeS96iBAkyXQD6YEQZNA8OsSoM-hA4q8",
+        "name": "✨CN-Tower/zjson A powerful JSON formatting and editing tools. 一个强大的JSON格式化和编辑工具，支持在线版和Electron应用安装。"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "12N9ToPJA_kCzEae4iMID2PIhHNi2SIR0QEVArwB3LtA",
+        "name": "sujinleeme/react-json-editor"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Dm9G5a2qDVr5xtfhhvOeldEUrYV2rpGoVDhTklwq8MQ",
+        "name": "lalitbhagtani/web-json-editor"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1gOKsyaSyJPnacGx4yeC1Ipp9R50hBjiyUMjgMLFZgac",
+        "name": "⭐️cloydlau/json-editor-vue JSON editor & viewer for Vue 2.6/2.7/3 & Nuxt 2/3."
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1iO1IMrZROQV6FzO7xWbxMRpuU_MlV1rbXhhV0oVJKHA",
+        "name": "⭐️svelte-jsoneditor A web-based tool to view, edit, format, repair, query, transform, and validate JSON"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "12hUZcBV7CDyUEabih7dmfszaVn7HUUOXutQh9qaHdwU",
+        "name": "constantoduol/JSONEditor A react visual json editor"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1tTvWg8se_3pEysZf3jdNwV6pV0K96SncK42l4rEKEsY",
+        "name": "✨TexteaInc/json-viewer not only a JSON viewer"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1VJgVdT0HA2cMEok8kpvEI54_91VEJv_L2OcTMxEfNO0",
+        "name": "⭐️josdejong/jsoneditor A web-based tool to view, edit, format, and validate JSON https://jsoneditoronline.org/"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_xGMfQ1h8nozP-xRsArHw7jsxK7kr0oUwB5TRV2_d5I",
+        "name": "✨ josdejong/jsoneditor A web-based tool to view, edit, format, and validate JSON"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Ge8ZVnbDHlmcpJsMWFK8HqnvgLkL0mFNiOaZfrH3T9g",
+        "name": "✨json-editor/json-editor https://json-editor.github.io/json-editor/ https://pmk65.github.io/jedemov2/dist/demo.html"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rI3pY3aU7ozDYGz7HVqpcoL8Vlgy2OrlygQnPWaIOxk",
+        "name": "Gregjarvez/React-redux-json-viewer"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Q5eZRUDwmprpC02xujCXKgsxzbQ2CVYZhTQnTvZH9DI",
+        "name": "🟠wutility/json-viewer "
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Lp1ficjX5ThspFPyqqaugcj1OSgk80XiZp4WPVzTBNw",
+        "name": "✨ilovejson/ilovejson iLoveJSON | Online JSON Tools for JSON Lovers - Built with Next.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1UYNjSHzxTjKZ1Yb0TvQBhEujdLpiKnNE6ugW1XUHGsQ",
+        "name": "⭐️uiwjs/json-viewer Online JSON Viewer, JSON Beautifier to beautify and tree view of JSON data - It works as JSON Pretty Print to pretty print JSON data."
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1P4XUAv4ifhT4O8bFJw9INSQe2pmwRUzr6W3rA0z4Ztg",
+        "name": "✨alenaksu/json-viewer Web Component to visualize JSON data in a tree view"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "14YLEcaZuge6TiC1sy-V8KccwQPAKj9Yh70gwVv7kAN8",
+        "name": "mac-s-g/react-json-view"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1OxUxWnhN4kNAkt78cOkATg_7l9Gtucp2EzksWjDA9FE",
+        "name": "battery.js-master (12-01-2023)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1TVgtaL0bplaV1vPdn1qlb6AVYDzBt4lbAy-KuX6SGEQ",
+        "name": "pstadler/battery.js/ #battery"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1GsQ-iIfsIiAqPMLm89DmE1AgYFJhQjf1ougpSPapvA4",
+        "name": "Eishta-Javascript Polyfills (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Ccppxpz3wY91l_JqRvUMlGwsIENkp7WTWBBkdrR0Xmw",
+        "name": "Presentation: JS Libs & Frameworks: {Research} (Apps & Libs Category Group)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "13zq_3GFQVVmimQ0CkwIL96npztQrrTqWV7aW2D20gOg",
+        "name": "✨Spectacle.js is:(Presentation: JS Libs & Frameworks)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rFchMeB4AZARkeTnt5T89szZUTdseOkFCoL6b9seRSg",
+        "name": "09-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1sdY1lfSmSWR0Z3CIz93xXMDwN_TRynaZIfIQyFxzhe8",
+        "name": "Underscore.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1x1i8-BzkqDNvJf8sKWk72cRKu03TD-zlMcgJJpcZcLc",
+        "name": "Template: Code Analysis"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ABmwaY_xkr_CMJQZ_nyeznOQ-mkaNV6EOUOwH5T4GBo",
+        "name": "nbubna/Case #String #Utility |Desc: String case utitility: convert, identify, flip, extend|"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1pR3PICchqfzgSCd_ovnzJiQdZZedJrCQjmXFRAZ5Tu0",
+        "name": "08-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1hyJkRVBNeh5FldWUK6dU5z4mVtDyEsEC6z9Zqwgfjpc",
+        "name": "31-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1PACS8kJN5U6R4gXYtK1mkxcUSb9Z45weVajDdJxDloY",
+        "name": "30-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1NUT_No20F0El7dpghPlfQXajge319aoB71g4CGln7Ic",
+        "name": "29-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1FbWAQeZwmQUmht9Jjl-GsbyETOZ2R58BSgoRD_y8Zdo",
+        "name": "28-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1FJ3gTeZFVbmN1QVuhIecGZN2rteO9g7DDpRIf6jCSCo",
+        "name": "27-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "11LIdSMa-R4DBiLNw9zfmc8ysZmMZ8qYvKtyLMuMtw_k",
+        "name": "26-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1zzT2EFnFiG-OtEHCCK5GNM-yfE2_dHMhTlz00P-7MAE",
+        "name": "25-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rp4nfKudK1UmVOfOeS4xtICe8wncbYk6EJRN3F7Rnko",
+        "name": "24-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rNQuaaBItF35ILp2Q4_DFxz7d2wKjQsC7vF9iLkJBLc",
+        "name": "23-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1AIwHOkT-Kh7gTnirrw3xdnMsJoeYPDo6WJTOv_ysORI",
+        "name": "20-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "104Z2gQHQ-78Whd1HCVeZmIXh6whXMq82RY1wDBmo0kM",
+        "name": "19-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1wM4o9XEFzC_vnRuY-Z8x-gBb-FNKVYOLCTh_jXI3Cj0",
+        "name": "18-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1gsxkoNQM9PuxvIob0Itii9B3pb1bo5s9kM_1QSBnNh0",
+        "name": "06-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1V-dQM7RkYEaVVi_Ue-_QLs0alIUqsKL349TelR9rHlM",
+        "name": "Copy of 30"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1IBizsfXSBIr1L2-AY0fKEckNlfvZ5wlBFiowYNLQq_M",
+        "name": "Copy of 29"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1k7BwD6Rklybwn5SLHH1l1Gfhq85DqI81D1H1-Y0YxEE",
+        "name": "Copy of 24"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1jz2vSczkWp8EFgIn_vliz_IOifgGlCNCL3vaJDdou6I",
+        "name": "Copy of 27"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1bpP0teNEOA8PbwXpluKmq7dcYgkvt62TMZ09sRXV1q8",
+        "name": "Copy of 25"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "18lbglWQin9NufMEknYfkdCVdMCMyGj0YvT3DP1JuuFQ",
+        "name": "Copy of 26"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1FKW5E9j1MsdtPkc6nwD80YPCoNaZgZn6-m5m9BSc4ew",
+        "name": "Copy of 28"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1feghdPZnsnF2SEPsOxAt9GQSjr8O8h--RsPZxPlHc5w",
+        "name": "Copy of 20"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1oFlij6zfXlGdNy_DauipS4-3AHRWIpCxWrBbguBQVJw",
+        "name": "Copy of 21"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "18c2h0iDdvDSmxwvxGC4R4hbQS3blUuVL2DrsElnYm84",
+        "name": "Copy of 22"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1G4jppB55bHQMKP4fq4HBTKv5NUvkpDWVYwt-ID-4MI0",
+        "name": "Copy of 23"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1dQVR__JgnluzmIz5GGzdf-QLMfcmXe27_igNKUNrEfA",
+        "name": "Copy of 19"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1u8p3Y0FQ-nG-kmwe06lUcsaGHDuw_zNXSJhPNUwuAUk",
+        "name": "Copy of 14-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1xwaCGtHcUtbN4TdtqY9b7cPycwGUSPGnSEWkhC5pm8s",
+        "name": "Copy of 18"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1VpTMeK4b1uykD48O__VbAn-I23aVug5cZW4o6EO6It8",
+        "name": "Copy of 17-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1y6ssdLlP5X3YY2_DrfF-X4JSDT1iSfUGynRbEGsTm98",
+        "name": "Copy of 16-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1jKy5i5mYPsEXZipMVJ1QOwgRA0gxmDoCcFKhoVBXqwQ",
+        "name": "Copy of 15-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1GK8iP4Fm-nERi6J8tDixyeHoJqy-2oZvfBgSkqSlHEU",
+        "name": "Copy of 09-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1q2f0Vv0dzDar-gBEd2WVkBmWJqioBxVh-Pn8K5oO1e0",
+        "name": "Copy of 11-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1pq_lCmW1JgkPy9EPPMXhPyLtzg554zIrMLrrvkg37mQ",
+        "name": "Copy of 13-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Zf7-G72bajcEy_Rfj0Tt_PbvwfuvLAuEE7SCb6fEblE",
+        "name": "Copy of 10-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1MkgCCPbb5g2_QaxMrM5AkHk1JcJQf71M8xhWV55e3SA",
+        "name": "Copy of 12-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1E7TIzGYJAjCvSQb6mAxADPP8LREM6zts7aQv7j1gynM",
+        "name": "Copy of 04-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1OkTjRb1Q6-IMIU-SzYq6LEQ88a_ZeEx8TRZ55i8eTSM",
+        "name": "Copy of 06-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "17oaoXD071rOkDR-O3QJyOTR9_TV8kRzChG_KhKlP81c",
+        "name": "Copy of 05-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1yCkTkpa7ia0le1DEiIrVk4DO8Tp4a5CfQv8U7uzDJ-Q",
+        "name": "Copy of 07-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1tVvx4LGAc9ak_uV0Cv1mkfmNj65tNxSdQqZOx1fMZeY",
+        "name": "Copy of 08-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_MFOHlvQnOLRXLesqdeCT7ztDVRZ1TQyDkV6fvQmXdQ",
+        "name": "Copy of 02-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1-Qfghx-vwiIvJzsf6FcwaUP5g_VzHq7NwC4R3c_NbMs",
+        "name": "Copy of 03-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1bLFNR6hry8CumWuYkwGKIn9Em1z88jtsSd3Ynihbjog",
+        "name": "Copy of 01-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1C5yXdaTeAIHndLr4_A5Dd6FXFtMe8-5YSRAObWgFyyg",
+        "name": "Copy of 31"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1jO3-2_N2c-Ro_Bgd_RLOiowCFmEwp8JD55MD-s5FT-0",
+        "name": "17-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1PHpU7M88bPfAQxEbSfDygc4AegZpHRaYewt3l8F87Qs",
+        "name": "15-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1LcUtEAIblM5FsBmVVFABAKsLve7Sy30QqqlOmYuxN7g",
+        "name": "14-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "16B85_nq7pMIgI-Jh9F1cFIXtDEGfjpgJTcUce1okx4I",
+        "name": "13-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "15hZfvF3fXybu_QSraLNL0dNmrBuGbGTSfqp86avfUto",
+        "name": "12-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "12hJStBM18HA_ZJWqz5k44CDkvNUKzT4yFiln_nMkjek",
+        "name": "11-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1wn0-3ENsr7AoXcvYbSHmgQqKfOK8ulnVff9een2LjNQ",
+        "name": "10-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1hA2BqINue614Dn1W2nkAbc4uqUAKz7dJ8NHBMhiEvNI",
+        "name": "07-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Zalnb2Qs5MIJvBD6X_S2g3SGNlbB949eDbE8rEqbZmc",
+        "name": "05-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1P_0PKbtWMAJAhIHuihkdX5MuLcI33D4p704yv4w7M5M",
+        "name": "04-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "16jZ87EzaADLcHHu9JgxJvDoF0rKaohPrLnfg6LgPZSQ",
+        "name": "03-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "19y2UP60iR6sKviGbrzPs5Y6VsABSIYg9Qu_9Z6Q3k5A",
+        "name": "02-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1iCzYo_ruhW0-ApLQb3G4jgJh0ca2FrvEWCJ_W-8DiLA",
+        "name": "01-01-2023"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Z4-JCigzHkIeRVaw2XVb0T6CyO_J1hrhgkUNY_Lgybc",
+        "name": "Code Analysis Template (Raw)"
+    }
+]

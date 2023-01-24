@@ -1,0 +1,1022 @@
+[
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1JhYSXbT2kB1sG9laXRQU5pMmNpJNxpTlYgVv9-s_HKs",
+        "name": "13-01-2023 19:44:45: Excalidraw App Research Small Step"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1cmPWxo0GetIVu-5os4ilPDG_1QfXDvBY5oDAoDnC1s8",
+        "name": "dup to del"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "11tDOITv0xbI8K1C8Ki7YC_2CF80ZQUtfbquG48wUC2I",
+        "name": "antfu_utils-main"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1RE-PNv6EXAQToXaxCDCQq2_zCO4BLvvOzJgXQ0PkBEw",
+        "name": "Tinkoff_utils.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "16cEeOsIbCgc46WbvwP3JtIU5sr3V9eP8BtMCTUbJ8FE",
+        "name": "deskpro_js-utils"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ClPTq0fDZO-59dXjYhE_NOuRT56oaLNni61RMOckLcY",
+        "name": "UbiCastTeam_jsu"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1DYw-p2k62u84vaAzJrAdQj5kSfoDjJmbNGyPXfsHluU",
+        "name": "To Del"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1eNdaeqPEhJ2h_7RwGd6K4cZXreDauDAvDgqiKrZXuJ8",
+        "name": "simontonsoftware_s-libs-master (do later bah (many sub projects)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1cObkX4UAoybV-hOPhyLqlJy_h2zkmislnZcFS87N8Kw",
+        "name": "UbiCastTeam_utils-js (deprecated, see: UbiCastTeam_jsu)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1VkTn9h1FrWdKfEC-xzTqMHGxAR3Da2YtylpYAtWX1QY",
+        "name": "fabiocaccamo_utils.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "15sG7_kfWnWc9HovTjAp2QaA7xFR8ywQXpMJ7UfMNpn4",
+        "name": "hypersoftllc_qc-to_num"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1uvjWdfKRltpsh2vbaOk15wPqiQVyPki7JiVpKlVa8QY",
+        "name": "varunsridharan_js-vars"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1M85iRiZOkroeZ1eCQupKnqeSd0p9aUnYIJYsbMx8ijo",
+        "name": "hypersoftllc_qc-type_of"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1pqKqwu9nCcUxFD7AWNIdjw9hjZqaRGZu0Vmc_Qypwds",
+        "name": "ferndot_tint.js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1W1JczyIpKbcINSdwNeUC-Bi9j_LHRXwlRe_a1VvS8Bk",
+        "name": "virallalakia_js-shortcut"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Jet4jXRmFbobo4bv73U8yXVcD8ikP81W3QT7bvd22MI",
+        "name": "stefanlazarevic_jseasy"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1U9kCbUOlFgClrNDRorRJN9IbnHQDZD23BQ9aJeQ3Ehs",
+        "name": "nevendyulgerov_ammo"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1gu1x05yB-hQvxsrw9oYvGy_UyrgTP31KiXmCRLW0-ZQ",
+        "name": "saminyasar004_casemate"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "11ABD896mbXblhvj4-htcaWTmZJXuvt-l0jAzAQAlZ_E",
+        "name": "bitbar_finka-js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1lJWcqmKsi0rzy0LMkjRGI91ZCuj7jeElwesVdwhsXb4",
+        "name": "gusbueno_js-utils"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "12UlsO3VyjAZElyMKkY0MKRMd830iojhplSmIFOhiKm4",
+        "name": "Booligoosh_urlParams"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1uUU-yFSOYi0ioRRzrquuaWM1k1mNloCuuce-doqspTo",
+        "name": "samrith-s_arryx"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "15qwbWfpWlGter8WyO4xdKth7KCGk6H3Fz3iGrIMPHwo",
+        "name": "gadingnst_simple-webstorage-master.zip"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1O_2uXAU6UnkVXQNXt2Jg_QJ7AkGU8-s0Kv1CLnh2O9w",
+        "name": "tymondesigns_chitu"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1AUQUJWw3pyMpJKwO7E3KqURgvEJ-REkP6ogc4-p-kiU",
+        "name": "tedirghazali_alga-js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1KTnPKhSw82jyFx1DQyt1PZwsOkUT-2TdeR-JTMqRWxQ",
+        "name": "salvadr_json-aggregate"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Gob2Fq9Mxh_RPCXMFOdNFCsRzUHj4OAWu0M7mXiiRM4",
+        "name": "naman03malhotra_match-rules"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1tJHT4ayrpojb613qDlezKpJiqKNeutAgq3aZ3GMf6nA",
+        "name": "drawcall_ppo"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1r-Pxm22_XS9Jk2FTFPkm3shCquFWSPjPvjf_Yo6ajJ8",
+        "name": "planjs_utils"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1XQQ5zgVLNWtml5np0kze8_q7euNK66d-DqC5s21LRLs",
+        "name": "qq575792372_lime-util #utils:js monorepo:#pnpmworkspace"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1UT4JrELE6gl33j9pOwOUDfTOomhhsijEk_q1KnXQdpc",
+        "name": "Gherciu_sagittarius #utils:js #lerna"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1KUZoGxwA-g64gX1vm7iEeuFL5zh0SPGRK2OuoE0m7tI",
+        "name": "CN-Tower_funclib #utils:js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ArnaeIZ1xi7faRKKJa90h_SV03R4p1VF2vOgACKnPf8",
+        "name": "andreruffert/js-utils #utils:js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1aFbJyJq4r3XPcnjhiVnE4Jmtsz22CtI9MXIbuj8rQ1w",
+        "name": "georapbox_js-utils #utils:js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1LYyfKXl1l3m7qTzbIXXZATC54MX8QlameQv0ZwOH9Vo",
+        "name": "thalesrc_js-utils #utils:js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "16LXsAKqj6JG-sZcr54Uc0TmQBkbzSjyMwL4dQ1JIQ0s",
+        "name": "FFS of ✨hello-pangea dnd - Beautiful and accessible drag and drop for lists with React. FF Structure"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1sJLgQ0cJnlKW_OSO9aNSh0ADE_4Wm6T0X1Jk7HvPOyQ",
+        "name": "✨hello-pangea dnd - Beautiful and accessible drag and drop for lists with React."
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "17eMlyft4ppIDIHQ6YT2qxqgV21JEpKys_VOsNAbJ02A",
+        "name": "Chrome Web Store Extensions All Download Backup Archive"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1BTKM18qTn6-1tPN2euz9ftUNXl5fYqWWjO6z8KAHNyE",
+        "name": "🟠 Leader Line anseki/leader-line"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Z4-JCigzHkIeRVaw2XVb0T6CyO_J1hrhgkUNY_Lgybc",
+        "name": "Code Analysis Template (Raw)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1y03kKOykqC4j6bthSvvCJD-tCMFtmtG7nDkqvePkPv4",
+        "name": "Paperlib.js (JS Framework)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1QSwGXyz7IzZ9yt0tmUqp5JHnvKV9eQQhtY9TNy0oyzE",
+        "name": "🍯Cycle.js (JS Framework) - A functional and reactive JavaScript framework for predictable code"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1xXg_y-QwyJ0yMHEq0KvQauSCO67bhQxb1w6yXNkYBxU",
+        "name": "Fishbone.js aemkei/fishbone.js #Chaining"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "11em1x-zIRozEC9mvSnTBzf893xiNuJjgsPG1Gnws1so",
+        "name": "Chaintastic ezakto/chaintastic"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1fRQV5ShjMvuzG9T_v_YaQVpEbHNmIh6oSfhB3aqsOL4",
+        "name": "https://github.com/Toltar/downloads-organizer"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1bMup9ba_tXhU6N8_VVYjh99Aszj1glxDOeI2FM-bisQ",
+        "name": "b01jan/Downloads-organizer (Python)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ccwiboNzDSP4E0lE3JiuqqZYAB4dbrdEfy1WLyGiExk",
+        "name": "nitish-dev-1503/Organize-Download-Files (simple) (is code snippet)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1DNBMSxq6OXLEa4b56tjToF2utRcsgKMR2hAFyfI1Uvo",
+        "name": "https://github.com/tfeldmann/organize (nice) (Python) The file management automation tool."
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1cph4c0cC44U-B0O2iufQC3DGtjhyBpTjQtpTEvglBp4",
+        "name": "ravijagga/chrome-extension-organizer"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "13xBX6URJrr3wRwW-i5mH8TWYW6KqIi2n73yAkgowmMA",
+        "name": "aidandj/Chrome-Download-Organizer"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1wdna-tT2lL1vUpxxwB4QrusBJrs_VwvCvifk4_V0qGg",
+        "name": "Chrono Download Manager mciiogijehkdemklbdcbfkefimifhecn (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1HI47oBhGXr64OSSefss5mf_k0_XkA3unkaEjjx63tfQ",
+        "name": "Free Download Manager ahmpjcflkgiildlgicmcieglgoilbfdp (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1-QOKDY4tR7kx1PITyTM2K0N6wJAP64f3z6e8HAGZj84",
+        "name": "Save In jpblofcpgfjikaapfedldfeilmpgkedf"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1JKVFuS4ZwtovxLGb1NofQtwIGsJEaEQOapU7VIYJqqU",
+        "name": "AutoRename gjmkdopdnkblnjbadmccmjpjpjcechgm"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1aciMMGR3ZGk0EYhLM74hoBHX7Ey8J6CPLj_Vp_aXi6A",
+        "name": "Download Organizer for Google Chrome™ igkbdohlalhjpmoephkoabpdecdagdnc"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1y_2RndagZIRg0ajepgSZKr7e7174TY-MFyOgE3YB-EE",
+        "name": "Downlwads Router - with overwrite gdhonnfhmbfjipjbjineecnknbpjeemh"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "180Q2cvJq8tnA6tDEyAGbooRg9YAo_UnLzqyEKOIJy20",
+        "name": "Downlwads Router fgkboeogiiklpklnjgdiaghaiehcknjo"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "14gBDPjVB0xJrEO7O42fwDwer2xKR5CcvcwBh4aUBPUo",
+        "name": "Download Sorter mebfblkahpknogabckmdjcmjbnpfdpcj"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1VnXSIAgBuCZo3zvp7S83F3qQH1x7Yko72fGxiKXgBLU",
+        "name": "Download Organizer bpckijmccpnjipoekiilngedlnokkdgf (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1KrdICyBLfu7znBkJQ3zKsLvRzZbJ1BjtngYl5NsqIPM",
+        "name": "HTTracker Web Downloader jappiofnhfolelcaeoimjcodghnnkfbk (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1sI_qMLBGU8BcYzfH7C1FGJ6UH7wtSrc6zWVIUYw-QEI",
+        "name": "Downloadyze — a Multiple Page Downloader bhmadppkfhoofholcdndbcodfomajacf (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "13jjfHmhCTCsTdDFSSZuBbkfKqzjng0ER1gWn55t415w",
+        "name": "RegExp Download Organizer oamembonjndgangicfphlckkdmagpjlg"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1T171p16r5bR2WmR3T_Ka5sU4M3ESht7teAWb-BrQyvE",
+        "name": "Download Plus gokgophibdidjjpildcdbfpmcahilaaf"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1E1Z9BaP67mYuWwy8w4ml1ZRNjejUIqH-8Httg89gJRM",
+        "name": "Thunder Download Manager nllgadppmkoamdlocamdnmimkehhojai"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1X4W0vUhxeMwYLAxUCj8FJGNjYfbMfMt-1FGmOU75ucU",
+        "name": "Download Manager Pro fmgaogkbodhdhhbgkphhbokciiecllno (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1BKhXe_tNdJvBpdLiRXS-izze2CnKI9JhCT_DS3R2A1A",
+        "name": "下载管理 dgoaeahpciglgomkbmfblkcfanpfckhb (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1UGCcWOJ4BjAJ3bENhyXN4WSnAo00VSmAl6mmw9JlqWI",
+        "name": "jingyu9575/multithreaded-download-manager (nice) #MultiThreaded Download manager extension for Firefox with multithreading support"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Wja15F_B1xo_Pa3DFpInvsWTbUwdvg_Nid-nR2TkDmA",
+        "name": "kapilks/Web-Based-Download-Manager #PHP , Desc: Simple Download Manager based in PHP"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1oBW6uZwyDpoAAzprSnSUmVYTXDxEB3y2GN_R5HkbYfM",
+        "name": "Downloads Pro lhhocifdmhogpekeppdjamkelohahbop nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1uqUbyvI6BE6IGEOzFT-ZFpcX0d45qNa1wQZoSBcLMNY",
+        "name": "Download Manager epgkpmpjileiepinlphboolabkkdelle (nice)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1eQKhmdSOafaFnvmCaB8WPoQclG5fgijKrz49ijr9nvY",
+        "name": "Downlwad Manager ofpglhlcdbjdhlacgbljnildhajfmlei knice"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1mtS-_rSaVT7_DhKBNEF6ucLszLN3dpAzjL77Qg2xaj0",
+        "name": "Multiple File Downloader ijodceacahodmjmdmfcobdepogaajbpc omeh)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1A9wyIc_zXlsTM9qgmzAGxk93x1vSWGntyBYsi33ASr4",
+        "name": "Batch Link Downloader aiahkbnnpafepcgnhhecilboebmmolnn (omeh)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1xxI1ccgIOYnwhH3WyKLUtYRGAyGi9g1qm6obARM8HGc",
+        "name": "Multi-File Downloader dpecplbkinpdbedgejddhepkgcppgchk brttd/multi-file-downloader"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1NzVv-hM80AzHGhcWOudbKiS2_nisHVwxFm1VVgQDRLc",
+        "name": "Turbo Download Manager (nmeh)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "128h4GStOxKGZqdKUaD1RgHy9yxdEE3WVtd4ZAxzrHrI",
+        "name": "✨Motrix (Download Manager) (Full Featured)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ccXytTOfwrkE-bruPTSbD4iX5X8e6PvuKxFAz_6MmbQ",
+        "name": "19th Dec 2022 (Session 1)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_Q1oLaY6C63IzUfkX6rnpRDVFawOIZr9UIf9gcX9KMM",
+        "name": "(deprecated, see Reveal SDocs in 2022pc12, this doc clone there, and work from there: insert new updated code, add annotations, code analysis etc.) Reveal.js Code"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Y-0zbl1h-J6DxNLkGvzTto16pnbxIIR5ZAy00q3C0Es",
+        "name": "(deprecated, see Reveal SDocs in 2022pc12, note: this file (referring to this file) hasn't been touched, contents haven't been added) Reveal.js Plugins:Built-in Code"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1o7Yw2TrwQenkIwHvXMnIi45BafQeKkb_3x_JA7oRC4s",
+        "name": "(deprecated, see Reveal SDocs in 2022pc12, this doc cloned there and extend from there) Slides.com (Reveal.js Editor)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1bfSomO9ui0698QrEkCyaPIk6njkuFikITJSXUue-zgE",
+        "name": "(deprecated, see Reveal SDocs in 2022pc12, this doc cloned there) Reveal.js (repo: hakimel/revealjs)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Hx6FYhNuao68mEXTri1ljBVOyl4OLZaPsX71_FpDB7Q",
+        "name": "Reveal.js (Central Zone: JS Lib Research Manager Doc)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1yvVJ3AY0DZCPmUf5MwNypyUAPCvG_GVvrSvfAkkig3c",
+        "name": "Google Slides: Editor App: Overview, Research, RevEng"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_sCi8nmxxC0E2Z21JELzMLKeP4bDj5jVrGR26Ur4AC4",
+        "name": "梵网经菩萨戒本"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1mgf7JA2F8tOGbwZTBduhlVQo6jQFCa-L2INNOb032v4",
+        "name": "MUI (MUI Components): Lightweight CSS framework www.muicss.com"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1WPcBn1u74MrUia_7M0nb1AvRG3iWRoSHBh0s7yjRG9Q",
+        "name": "07 Intermission: just lghtly research some code editors lah"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1vYvs_iQfzbaiXTuc-Y1RLt7YEbN6LEZGL41mP7Lemy8",
+        "name": "Tailwind UI (Paid, To Purchase, To Crack)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_f6GdoQNldfY1dHa733DQjDclyNvr_B8mEo37rHLGAA",
+        "name": "佛经 Template"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rL7NyeBCi3Ar5pINM3Maxi077517Cz8kb66Zt3i5UOc",
+        "name": "BExt: Tab Search (reblws/tab-search) (FF Step 1: done)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1iUgqT5irPg52teT7-q14zXf03t4MjpS1CaaaKTTzWkk",
+        "name": "mesqueeb/case-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "187af9lloGGamfP-WDr_nalofYeyv6O2M2gOXIq6nCfk",
+        "name": "Tailwind CSS"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1IiFrzTq1TZOZ8MOO06Z21_c2VLle5diEy12YGW2gJfY",
+        "name": "mesqueeb/copy-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1SRNBeHvD8vIlhtg588S9oCf75CjqTIcUAsPwMBk8qE8",
+        "name": ";"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1N9w7S0SD364FspwzmaBHLOMPln8OUUnV0Tgpx3xjFOc",
+        "name": "大佛顶首楞严经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1idgIfcqrWuOAsnVRNBBcIsHfMIudQ38gN6e7-kW8B3U",
+        "name": "🏠Tabli (CExt) (Research: Home)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1mVmUZa3PpOMwCwmPfbbnO47Cd30QOavA3B8Drfk_8JE",
+        "name": "eyas-ranjous/sort-algorithms-js (bubbleSort insertionSort selectionSort radixSort heapSort mergeSort quickSort)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1g5WRyJ4lZDcH7Ief_VEPR5zQCCOCgkpqS8WBs78aGrg",
+        "name": "Bootstrap (UI Framework)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "19tAkxyEVnBpYj4SGXLWTzOwGPhRvsUjd3hwpEfObr88",
+        "name": "Golang vs. Rust: Which is Better? is:YTBVideo"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Cdbkjfi9H3G2qywmvHzBxw2dbVzCVKepE0USSnbvHb0",
+        "name": "❄️ Chrome Bookmarks Manager (for Chrome B Organizinbg) (Transitional to Migrate to ❄️ History, ❄️Bookmarks Manager)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1SaspR0JEKW0TW4r6K4G_lzh6yenclqd4Sv6pHFl0aOA",
+        "name": "mesqueeb/sort-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1W8i5BErwaVWMPcxKno8ZGSR7j9wI4M2iJ6E3qVDLA0Y",
+        "name": "mesqueeb/nestify-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1MOEV5ADsCnSlmmKgFra8Ug-ShiPYMLBNpNrtE9P-vGY",
+        "name": "14th Dec 2022"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1U4KPOiEMURRw7v3gldINiaH0bXBmDsZdcVMxYuP6XtI",
+        "name": "Minible (Template: React) (nice, has dnd builder) #RevEng (downloaded source code from maps from dev tools) 12-12-2022"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1swGooUPPZPYxdeWp6mJigMrpPSmQQpiDAPd7jxC0_HI",
+        "name": "Backup Files (Oct, Nov) to Github (for preparation of PC migration)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1DmyP86pbWYpLTp1gk6y6xHzWY91-qbbKN75w09l6r00",
+        "name": "11th Dec Ideas"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1OfqxMtiKyfC5ItiVxzZvkQk5ph9T3fYC3yITxlpWQnQ",
+        "name": "VSCode Research: D1: DOM Elements"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1iiEemFUdhDHI1vGnpe20FMEKbPU8fF8l2C70hGXkmKI",
+        "name": "地藏菩萨本愿经卷📦"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1daL2H_TtKnfREKm1UqfqEHi9PuZusbLJlJup20UIaFA",
+        "name": "07 Day Organization"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1WQ537eFvVrntuPvPch86MuI7bl_jS1adN-Z0lpRyq9k",
+        "name": "7th Dec Draft Idea: Code Analysis: FF Structure Analysis & Code AST Analysis"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1LXHGwlECh6hEFMGMPotMkY5Wr4q76zFXI8XFPzT5_3o",
+        "name": "Tabli (Code Analysis: Code Analysis, AST Analysis)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_KIZ9YZh311pUjurHBgsoRFDQlBR1b959HPoRrhzp6o",
+        "name": "Tabli (messy)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1fDjwywISBc1bzO4O_hwRjrVmyr_ELx0-UG4jziX7RfU",
+        "name": "Tabli (Code Analysis: Code Blocks, Annotations etc.)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ivbnCfblhTs2wgfgON9j-xwvdeFSl1ftLwcueDIl83M",
+        "name": "Tabli (Tab Manager) (React, Webpack)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1zgyUuiw6K9osNHTPUgZJ1Gl9Q7n07yWgpn7-RlsDSzo",
+        "name": "6th Dec: Google Slides WAF IAN (working on, ideas, brainstorming)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1hJPeEXgyMqTa950VL6CWfBxhZY4l1atrgBCvFFyCO7c",
+        "name": "05"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1pkcEtDuHi-hxXJSa2FpvWvTIEIJ-WRynDTmqW3sKHww",
+        "name": "04/12/22 4th Dec 2022 (Diary)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1UxeADSNNnijFg6J_igBNMvL5AA-tae4PjsRj71xS6tU",
+        "name": "大般若波罗蜜多经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1u0wzSPtJx617BjZkbgX383Bu8DFOb280wqUZPbOVSeU",
+        "name": "妙法莲华经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1vku3_mlkhm6aGmBHUqPwNJpzYe4DNcuemXOrYsJOukw",
+        "name": "华严经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1uDO6XBc-7yL516bN0GsUViHhAtU4oiJjLhuWzy-3rb8",
+        "name": "佛说八大人觉经原文"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1MQN-RrxVTmOuwHHeLxEHW0Og3uruYlbmVJSbKhPITZc",
+        "name": "圆觉经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1OouX5DJ2eISY9Lscr9RUgYoqbfm03eoRuHJ7PTO0000",
+        "name": "六祖法宝坛经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1fkIzSwy1RKNNycesNOFrD6impsZgLTzrCYPtx7DKNXA",
+        "name": "佛说首楞严三昧经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1iot4GiRJJfbT1KiTtPEAXFN9tTOS0Xe7UMzitw6m3_0",
+        "name": "楞伽经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1jkreQT0S89UAQ71yCf3NkYKwluxkA5T4hPBAepAOxpE",
+        "name": "a"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Cxap5L3eMOiwaEK_TDe2G3Do8wU5BrJmjqhtdKTitgw",
+        "name": "药师琉璃光如来本愿功德经"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1I5Zq0_RLjjQbEg4r3vMqhRXoKncgmn2cigj6t0qzfLo",
+        "name": "Hub"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "16NmgatSPRkhsX0cUOJCIghy8UZOh8M8UUmer2sufzvI",
+        "name": "3th Dec 2022 (Ideas Thoughts, Diary, Planner), (Bookmarks, Downloads)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1dJ9SseYeEfucWptt9sYDbtW3JJzYa7DihxBB6mFrigc",
+        "name": "Toast - Save Tabs for Later"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "18iCQ6jcPRZ-JL9a-k5TeQQdTwkkLK-0jtXSRkvosjUU",
+        "name": "dcode (Youtube Coding Channel)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "19DyHl7zQTJpsrT4mvA03SNkkT2-Kvi3BuQ8Xa-EyKEM",
+        "name": "01/12/22 1st Dec 2022 (Diary)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1rWnGOSICZrmXtBL8VK5euc5-ncV9PiYCHLeGWH5M9rw",
+        "name": "Copy of Code Analysis Template (Raw)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1yXeJyc43pwqHWxIOrlTkmU9LVdyE8OL6p3pzN6QAog0",
+        "name": "mesqueeb/is-where (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1s_FsqV6ghEVDZMIveDyQ3GscCFur__b7bgJ00CIQq58",
+        "name": "List.js (Basic List Functionalities)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "10nlBry7cTKUuRcat0d_RCpf0MHzG-EMTjdx0Y5x_L14",
+        "name": "Gthub User: mesqueeb"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1PHc5ojJsvAH-aGwSSbYF6jwqQikyAgfrZUEP3ANLe1U",
+        "name": "mesqueeb/is-what (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "10_gzyclyoYiCniNhuo8Qscz3GHdJrKrSI62mu6UUTQc",
+        "name": "mesqueeb/Footer (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1r37hmdB_Yk2hNFMu1CXVRr1IKc2JiNe7z0dTrDAzHoc",
+        "name": "mesqueeb/merge-anything-compilation-issues (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1enWgxhOnl0RoPB6wGcPye8LUWGQhy_LzxiEsTYd6pKc",
+        "name": "mesqueeb/sha-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1Qyy06ICUm30xZo7NGaJ77oW5QIZFevqTwEC6CE9Q6kU",
+        "name": "mesqueeb/roll-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1BrSDm3l7d-LfijFOhu1Fzkb0jEKM0uUKaf3E_6VQZ78",
+        "name": "mesqueeb/remove-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1u9XUeWj5JUlcLgtcXjMsU3OxZp6MsrChWqY8MttaMeE",
+        "name": "mesqueeb/check-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1DQympIg70QZTkLTtsUU__VZwiBdi0_LzU0ab5MCYo8g",
+        "name": "mesqueeb/compare-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1KwjdHBJzH4r-4tdQn_-DPilyhA-cPCY8hlVX-ssb5ls",
+        "name": "mesqueeb/commafy-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1lMnpSy5xQGD3O5sVFEVPf26CqpHcFj5BD5criyzFVLc",
+        "name": "mesqueeb/find-and-replace-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ksnhBnorzISalsl1tTjT9zQrIzgIVy40vBAjl0-qbJ4",
+        "name": "mesqueeb/getorset-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1vV6bXnH9e3rvBQZAkdmld0R2iBJdmUPOQWhSQKi8hNQ",
+        "name": "mesqueeb/map-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1py-Vtckdzr6SX_BtNvsDn3X-eeZt_0nH5XTrW9HdslM",
+        "name": "mesqueeb/filter-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1OF4EF4EsPaCMeq8YhqmEa0Zupxsyyh-jrpCWuIAaR5Y",
+        "name": "mesqueeb/flatten-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_U0taf8_fuV-BqTg-1amvl5eNSLWlKBuPa9SyTVocH0",
+        "name": "mesqueeb/merge-anything (User: mesqueeb, Group: ~ Anything)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1kxRCUBcwVVVirfD3P7Y81BHMvxSwyOxNETTU2kppUSg",
+        "name": "LeeWannacott/table-sort-js"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1IRfgVhcYOlKfZZM1Jt4BG4LY5Ih71Ok8DAoIMnEbyyY",
+        "name": "jherax/array-sort-by"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "10QrVtlX-q9D281UygunGjxvtJ8P8tQczlLOMof2bsSI",
+        "name": "oprogramador/sort-any"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1L6b9JSUmGMBXcKEbPKAr2wrqDqsKd3YWKkndAnsC6VE",
+        "name": "philskat/js-sort (Typescript) (Quick Sort, Bubble Sort, Insertion Sort, Insert Sorted)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1amAyOfgdc1vZX-teO0Mc25BbCMqH-x-3-ydiPSbSaQA",
+        "name": "gwtw/js-sorting"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1ockHg4Q2pKj922AGPLOYY5xNxf2dz5PycuzQYTpAtnc",
+        "name": "snovakovic/fast-sort Blazing fast array sorting with TypeScript support."
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1sESGxZrKqx5oA5gdotwXJl9jkDaOr4tPKHhPceUSw9s",
+        "name": "jonschlinkert/array-sort #(Data Structure Manipulation)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "19ARlIiRTBvbZ8827aPitgXClEt5EJUg4i3VaZHQ0XYI",
+        "name": "Sort.js jongha/sort-js (many sorting algorithms Bubble sort, Quicksort, Merge sort, Heapsort, Insertion sort and selection sort) (Old, 9 years ago) #(Data Structure Manipulation)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1B95KszUoFAuUPrXlQTsWPyKvdHs6-FdPz6RnRB--aUU",
+        "name": "1st Dec"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "13EGHL5DGi_ba0e_L4phbuizff3a28QetHVbfw7kHTHA",
+        "name": "Material Components for the Web https://m3.material.io/develop/web (nice docs site)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1_Ge_2-mRxM-ZQtgib9yH8m61eYPxOZFVwnUmnIuVwis",
+        "name": "Evergreen"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "149TOIgiVjHGLBsyGTDYm8-ahdG1pqLZv9ydiPm6EM1c",
+        "name": "Creative Tim"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1TSAsqYTmkgBluJC1bLs47XKDxWdE7guaiqZVqfumLm0",
+        "name": "Codrops (Tympanus)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "18YXf26EB1ujtEt_Y0V7pVmJ9Zp9YWsBMmpSghYkblqg",
+        "name": "UI Kit"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1wnz4ATctg7nLGwf4lk-eciCw1KOhHjF4Z1MhKGGyWNY",
+        "name": "Admin Kit"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1mt6HazffZgpxKw_j92hazyZgIKCAdkgLoJE1Qnwb7wk",
+        "name": "Material UI"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1PqS6ZCJG_FT8StMJ53FnaUX0xYORbd4kgiPvDW5ETSI",
+        "name": "Webments"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "1NOnwolhhqjnbuMsCyk4iwbJQSCMmjY3b_Y3KyFagnfs",
+        "name": "Semantic UI (variants: Fomantic UI)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "16-kfXFc-bRjnZoag9PIaYO6dxXxnqvds0ZI3oDObHoI",
+        "name": "Materialize (UI Framework)"
+    },
+    {
+        "kind": "drive#file",
+        "mimeType": "application/vnd.google-apps.presentation",
+        "id": "10LDMUaqCK0F7YShGJCit0NshokLH8V_-BsvipiX3I6s",
+        "name": "Primer CSS (UI Fracework) (by Github"
+    }
+]
